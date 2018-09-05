@@ -153,7 +153,7 @@
             android:textColor="@android:color/white"
             android:textSize="13sp"/>
     </LinearLayout>
-    <!--播放错误-->
+    <!--播放错误   -->
     <LinearLayout
         android:id="@+id/error"
         android:layout_width="match_parent"
